@@ -32,3 +32,18 @@ body {
     font-size: 16px;
     padding: 60px 20px 20px 20px;
 }
+
+.label {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #8f12c5;
+    padding: 4px;
+}
+
+.label:hover {
+    background-color: #8f12c5;
+    color: #ffffff;
+    border-radius: 4px;
+}
+
