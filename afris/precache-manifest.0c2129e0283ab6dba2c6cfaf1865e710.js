@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "102ffa3862dd5d76959a",
+    "revision": "ee41ca2835cd03a47fc3",
     "url": "/afris/css/app.51ee6d93.css"
   },
   {
@@ -1340,20 +1340,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afris/img/logo.dd75479e.png"
   },
   {
-    "revision": "b293e8c69b1c55e8606406cc263413d9",
+    "revision": "484b0a790f44edcd28df2e72275c35f9",
     "url": "/afris/index.html"
   },
   {
-    "revision": "102ffa3862dd5d76959a",
-    "url": "/afris/js/app.18740ff8.js"
+    "revision": "ee41ca2835cd03a47fc3",
+    "url": "/afris/js/app.1a4aa0ba.js"
+  },
+  {
+    "revision": "d1f766482b7b77178c18",
+    "url": "/afris/js/chunk-236349ca.fcbb039e.js"
   },
   {
     "revision": "64f7cbc8c6ce0a94c3c2",
     "url": "/afris/js/chunk-3639fd02.05d459de.js"
-  },
-  {
-    "revision": "29cf4c75ea0fda1bf711",
-    "url": "/afris/js/chunk-490d95e6.b1c55405.js"
   },
   {
     "revision": "64779fd24bd1b211442f",

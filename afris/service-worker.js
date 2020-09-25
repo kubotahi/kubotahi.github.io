@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/afris/precache-manifest.aa029291fe9b7a1c9edf58012f82a827.js"
+  "/afris/precache-manifest.0c2129e0283ab6dba2c6cfaf1865e710.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue_gsap"});
