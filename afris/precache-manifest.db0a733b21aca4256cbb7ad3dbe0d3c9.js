@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6dde39dc0983cc9c6ec",
-    "url": "/afris/css/app.ee0be0c6.css"
+    "revision": "28b72764338aea85bb9a",
+    "url": "/afris/css/app.51ee6d93.css"
   },
   {
     "revision": "f84d79a2c4bd46917e78d4f80a1922da",
@@ -344,8 +344,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afris/img/2.9ad92a39.jpg"
   },
   {
-    "revision": "8c0fb093d4e3db60e96dfe46d2c4038b",
-    "url": "/afris/img/20.8c0fb093.jpg"
+    "revision": "f66cb3cc091e614936213f7ff6533dc1",
+    "url": "/afris/img/20.f66cb3cc.jpg"
   },
   {
     "revision": "0a0c5b8f05ce6f7b08748c3b9aeca21d",
@@ -416,8 +416,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afris/img/21_9.634e18c7.jpg"
   },
   {
-    "revision": "104f6d84352e993228297918e47ef001",
-    "url": "/afris/img/22.104f6d84.jpg"
+    "revision": "161c96b0efb5735183bf188719f7ade0",
+    "url": "/afris/img/22.161c96b0.jpg"
   },
   {
     "revision": "493fd77beb608b4d5533281dbae3426a",
@@ -1340,20 +1340,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afris/img/logo.e43030c2.png"
   },
   {
-    "revision": "d0dd0c8ff5dafdcd61c3726cc199311f",
+    "revision": "38e0c2808c98a42b33331bc48585b2ca",
     "url": "/afris/index.html"
   },
   {
-    "revision": "e6dde39dc0983cc9c6ec",
-    "url": "/afris/js/app.cd4b9d34.js"
+    "revision": "28b72764338aea85bb9a",
+    "url": "/afris/js/app.72198c86.js"
   },
   {
-    "revision": "0fc85873d95190e8534c",
-    "url": "/afris/js/chunk-233c08ee.f64b21df.js"
+    "revision": "64f7cbc8c6ce0a94c3c2",
+    "url": "/afris/js/chunk-3639fd02.05d459de.js"
   },
   {
-    "revision": "03a7baa0ed1ac27ce699",
-    "url": "/afris/js/chunk-36391484.6f4a606f.js"
+    "revision": "29cf4c75ea0fda1bf711",
+    "url": "/afris/js/chunk-490d95e6.b1c55405.js"
   },
   {
     "revision": "64779fd24bd1b211442f",
