@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71a09d459b6491bfb42a",
-    "url": "/afris/css/app.51ee6d93.css"
+    "revision": "6c6f06b626138c9da47a",
+    "url": "/afris/css/app.927ecdce.css"
   },
   {
     "revision": "f84d79a2c4bd46917e78d4f80a1922da",
@@ -1340,11 +1340,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afris/img/logo.dd75479e.png"
   },
   {
-    "revision": "b8c6f59af64ce188b393859f7aba9830",
+    "revision": "b2de49192a4cbb9283d2be90de8eb631",
     "url": "/afris/index.html"
   },
   {
-    "revision": "71a09d459b6491bfb42a",
+    "revision": "6c6f06b626138c9da47a",
     "url": "/afris/js/app.9e4cb402.js"
   },
   {
