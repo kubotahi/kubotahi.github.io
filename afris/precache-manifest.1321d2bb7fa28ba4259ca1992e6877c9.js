@@ -1340,7 +1340,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afris/img/logo.dd75479e.png"
   },
   {
-    "revision": "5e1a57f3dbc290559b169668652cb43a",
+    "revision": "ff67a7a630f068a0ff33e9472acefe8a",
     "url": "/afris/index.html"
   },
   {
