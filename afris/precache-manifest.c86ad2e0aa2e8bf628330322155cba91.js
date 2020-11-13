@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a94453a0214c00fd0770",
+    "revision": "5381c9e752eb11507248",
     "url": "/afris/css/app.927ecdce.css"
   },
   {
@@ -1100,6 +1100,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afris/img/42_3.c2536c90.jpg"
   },
   {
+    "revision": "eb6a09a05a692291eaa9d118e4d8537c",
+    "url": "/afris/img/43.eb6a09a0.jpg"
+  },
+  {
+    "revision": "eb6a09a05a692291eaa9d118e4d8537c",
+    "url": "/afris/img/43_1.eb6a09a0.jpg"
+  },
+  {
+    "revision": "991269e776041edb04040f73bcc39ea5",
+    "url": "/afris/img/43_2.991269e7.jpg"
+  },
+  {
+    "revision": "99ee21534f7f187f9795115981d1cd79",
+    "url": "/afris/img/43_3.99ee2153.jpg"
+  },
+  {
+    "revision": "4d5bbc34dd0f9c58a23ae89c99cdbc57",
+    "url": "/afris/img/43_4.4d5bbc34.jpg"
+  },
+  {
     "revision": "2a8d3b55066f4c5c7c7834399299a074",
     "url": "/afris/img/4_1.2a8d3b55.jpg"
   },
@@ -1340,20 +1360,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afris/img/logo.dd75479e.png"
   },
   {
-    "revision": "ff67a7a630f068a0ff33e9472acefe8a",
+    "revision": "a3a8e90d4f933cf893b6aba2c5c2471f",
     "url": "/afris/index.html"
   },
   {
-    "revision": "a94453a0214c00fd0770",
-    "url": "/afris/js/app.bdb11d73.js"
+    "revision": "5381c9e752eb11507248",
+    "url": "/afris/js/app.bb6fb662.js"
   },
   {
-    "revision": "d1f766482b7b77178c18",
-    "url": "/afris/js/chunk-236349ca.fcbb039e.js"
+    "revision": "5cd848494bc9fdab9a9e",
+    "url": "/afris/js/chunk-8e4bd31a.5dd8a940.js"
   },
   {
-    "revision": "64f7cbc8c6ce0a94c3c2",
-    "url": "/afris/js/chunk-3639fd02.05d459de.js"
+    "revision": "a11f5079038fceaf7067",
+    "url": "/afris/js/chunk-916cc4d4.a455371c.js"
   },
   {
     "revision": "64779fd24bd1b211442f",
@@ -1364,7 +1384,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afris/manifest.json"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/afris/robots.txt"
   }
 ]);
