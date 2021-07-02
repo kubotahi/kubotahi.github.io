@@ -23,7 +23,6 @@ body {
     font-size: 24px;
     font-weight: bold;
     text-align: center;
-    text-shadow: 3px 3px 3px #31da07;
     margin: 7px 0px;
 }
 
@@ -32,17 +31,25 @@ body {
     padding: 60px 20px 20px 20px;
 }
 
+.row {
+    width: 100%;
+    text-align: center;
+}
+
 .label {
+    display: inline-block;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: bold;
-    color: #8f12c5;
-    padding: 4px;
+    background-color: #12c58f;
+    color: #ffffff;
+    border-radius: 4px;
+    padding: 4px 12px;
+    margin: 4px 10px;
 }
 
 .label:hover {
-    background-color: #8f12c5;
+    background-color: #239774;
     color: #ffffff;
-    border-radius: 4px;
 }
 
