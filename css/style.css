@@ -1,15 +1,15 @@
 body {
-    margin: 0;
-    padding: 4px 0px 0px 4px;
+    margin: 0px;
+    padding: 0px;
     background-color: #ffffff;
 }
 
-.header-fixed {
+.header_fixed {
     position: fixed;
     top: 0px;
     left: 0px;
     width: 100%;
-    height: 50px;
+    height: 40px;
     z-index: 1000;
     background-color: #000000;
     padding: 0px;
@@ -18,17 +18,24 @@ body {
     opacity: 1.0;
 }
 
-.title {
+.header_container {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;  
+}
+
+.header_title {
     color: #ffffff;
     font-size: 24px;
     font-weight: bold;
-    text-align: center;
-    margin: 7px 0px;
+    margin: 4px 0px;
 }
 
 .container {
-    font-size: 16px;
-    padding: 60px 20px 20px 20px;
+    width: 100%;
+    max-width: 800px;
+    padding: 50px 0px 0px 0px;  
+    margin: auto;  
 }
 
 .row {
@@ -36,20 +43,46 @@ body {
     text-align: center;
 }
 
-.label {
+.col_100 {
     display: inline-block;
+    vertical-align: top;  
+    width: 100%;  
+    overflow: auto;
+}
+  
+.col_50 {
+    display: inline-block;
+    vertical-align: top;  
+    width: 50%;
+    overflow: auto;  
+}
+  
+.col_25 {
+    display: inline-block;
+    vertical-align: top;  
+    width: 25%;
+    overflow: auto;
+}
+
+.left {
+    text-align: left;
+}
+  
+.center {
+    text-align: center;
+}
+  
+.right {
+    text-align: right;
+}
+  
+a {
     text-decoration: none;
-    font-size: 14px;
-    font-weight: bold;
-    background-color: #12c58f;
-    color: #ffffff;
-    border-radius: 4px;
-    padding: 4px 12px;
-    margin: 4px 10px;
+    color: #009688;
 }
-
-.label:hover {
-    background-color: #239774;
+  
+a:hover {
+    background-color: #009688;
     color: #ffffff;
 }
-
+  
