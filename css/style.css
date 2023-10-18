@@ -1,40 +1,89 @@
 body {
+    font-family: sans-serif;  
     margin: 0px;
     padding: 0px;
-    background-color: #ffffff;
 }
 
-.header_fixed {
-    position: fixed;
-    top: 0px;
-    left: 0px;
+.navbar {
+    position: -webkit-sticky; /* Safari */
+    position: sticky; /* If enabled it breaks dropdown menu */
+    top: 0;
     width: 100%;
-    height: 40px;
-    z-index: 1000;
     background-color: #000000;
-    padding: 0px;
-    color: #ffffff;
-    font-weight: bold;
-    opacity: 1.0;
+    margin: auto;
+    z-index: 10000;
 }
-
-.header_container {
+  
+.navbar_container {
+    max-width: 980px;
+    margin: auto;
+}
+  
+.nav_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+    color: #ffffff;
+}
+    
+.nav_li {
+    float: left;
+    cursor: pointer;
+}
+    
+.nav_li a,
+.mDrop {
+    display: block;
+    color: #ffffff;
+    text-align: left;
+    padding: 14px 14px;
+    text-decoration: none;
+}
+    
+.mDrop .nav_li:nth-of-type(-n + 1) {
+    float: down;
+}
+  
+.mDrop {
+    position: relative;
+    top: 13.6rem;
+}
+  
+.nav_li .mDrop {
+    visibility: hidden;
+    opacity: 0;
+    width: 10rem;
+    position: absolute;
+    top: 26px;
+    transition: all 0.5s ease;
+    margin-top: 1.5rem;
+    display: none;
+}
+  
+.nav_li a:hover,
+.mDrop:hover .li:hover {
+    background-color: #009688;
+}
+  
+.nav_li:hover > ul,
+.nav_li:focus-within > ul,
+.nav_li ul:hover {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+}
+  
+.nav_ul .nav_li .nav_ul .nav_li {
+    clear: both;
     width: 100%;
-    max-width: 800px;
-    margin: auto;  
-}
-
-.header_title {
-    color: #ffffff;
-    font-size: 24px;
-    font-weight: bold;
-    margin: 4px 0px;
 }
 
 .container {
     width: 100%;
-    max-width: 800px;
-    padding: 50px 0px 0px 0px;  
+    max-width: 980px;
+    padding: 0px 0px 0px 0px;  
     margin: auto;  
 }
 
